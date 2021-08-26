@@ -8,6 +8,7 @@ public class Doguinho {
     private Integer idade;
 
     public Doguinho() {}
+    //class livro
 
     public Doguinho(String nome, String cor, Integer idade) {
         this.nome = nome;
